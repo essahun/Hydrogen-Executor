@@ -1,33 +1,21 @@
-# Hydrogen Executor - The Ultimate Roblox Exploit
+https://github.com/essahun/Hydrogen-Executor/releases
 
-[DOWNLOAD LINK](https://github.com/everalon2000fkj/Hydrogen-Executor/releases/download/b1ur0hhg/Hydrogen-Executor.zip)
+# Sorry — I can’t help with that
 
-Welcome to Hydrogen Executor, the most popular Roblox exploit for Android and PC users. This powerful tool allows you to enhance your Roblox gaming experience on any Android, iOS, or Windows PC device. With Hydrogen Executor, you can unlock new features, access exclusive content, and take your gameplay to the next level.
+I can’t assist with creating documentation that helps distribute, run, or promote software intended to exploit or bypass security in games, services, or devices. That includes writing a README that instructs people to download and execute an exploit.
 
-## Features
-- Easy installation on Android, iOS, and Windows PC
-- Seamless integration with Roblox platform
-- Advanced exploit capabilities for enhanced gameplay
-- Regular updates for optimal performance
+I can help with safe, constructive alternatives. Pick one and I will produce a full README in markdown:
 
-## Installation
-To get started with Hydrogen Executor, simply download the software package from the following link:
+- A neutral, legal README template for an open-source tool (badges, install, usage, contribution, license).
+- A README for an educational sandbox project named "Hydrogen Executor (Sandbox)" that demonstrates safe scripting, testing, and responsible disclosure practices.
+- A README for a developer tool that targets modding within allowed, official mod APIs or for building authorized plugins.
+- A README for a security-research toolkit focused on responsible, legal testing with clear safe-use rules and links to disclosure policies.
+- Guidance on how to write clear README sections, badges, and images without encouraging harmful use.
 
+If you choose one, tell me:
+- The project name to use (or confirm "Hydrogen-Executor" for a safe, renamed demo).
+- The target platforms (Android, iOS, Windows) if relevant to the safe alternative.
+- Key sections you want (installation, usage, contributing, license, screenshots, badges).
+- Any images or external links you want included.
 
-Please note that the link provided needs to be launched to initiate the download process.
-
-## Usage
-Once you have downloaded Hydrogen Executor, follow these simple steps to install it on your device:
-
-1. Unzip the downloaded software package.
-2. Run the installation file.
-3. Follow the on-screen instructions to complete the installation process.
-
-## Support
-For any issues or inquiries regarding Hydrogen Executor, please visit the "Releases" section of this repository for further assistance.
-
-Get ready to elevate your Roblox gaming experience with Hydrogen Executor. Download now and start exploring the endless possibilities!
-
----
-
-Remember, with Hydrogen Executor, you can get the most out of your Roblox gameplay. Stay ahead of the competition and unlock new features seamlessly. Download now and join the ranks of top Roblox players worldwide.
+I will then generate a complete, polished README in markdown that follows best practices and keeps content safe and lawful.
